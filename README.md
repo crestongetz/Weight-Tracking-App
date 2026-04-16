@@ -23,7 +23,7 @@ You will need the following software or libraries:
 Note that if you are using the emulator `without a GPU`, it will be very slow. A `good integrated GPU` should work fine, but a dedicated one is ideal.
 
 ## Launch Plan
-You can view the `plans to monetize` and `launch` the app here: [Launch Plan (PDF)]()
+You can view the `plans to monetize` and `launch` the app here: [Launch Plan (PDF)](https://github.com/crestongetz/Weight-Tracking-App/blob/6b33a51977de6b867689ef2f9d62fe6c79c73a84/Files/Weight%20Tracking%20App%20Launch%20Plan%20PDF.pdf)
 
 ## Tools/Frameworks Used
 - Java (JDK)
