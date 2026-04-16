@@ -6,7 +6,7 @@ This is a `fully developed user-focused Android app` that allows users to track 
 <img alt="Picture of Main Display Screen" src="https://github.com/crestongetz/Weight-Tracking-App/blob/464a8035285badcfe85176fc734c654dad556321/Pictures/Weight%20Tracker%20Main%20Display.png"/>
 
 ## Getting Started
-You will need the following software or libraries:
+You will need the following:
 1. Java
 2. Android Studio
 3. A dedicated GPU(recommended not required)
