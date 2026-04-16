@@ -1,6 +1,6 @@
 # Weight-Tracking-App
 ## Overview
-This is a `fully developed user-focused Android app` that allows users to track their weight over time and set a goal weight to receive a notification. The app was created to be a convenient way for `users to achieve their goals`, no matter where they are. The app consists of `three screens`: one to log in and sign up, one for the main display, and a settings page. The database for our app has three tables: one for user logins, one for user weights and their respective dates, and one for user goal weights. These tables are all connected via the user_id created in the login table.
+This is a `fully developed user-focused Android app` that allows users to track their weight over time and set a goal weight to receive a notification. The app was created to be a convenient way for `users to achieve their goals`, no matter where they are. The app consists of `three screens`: one to log in and sign up, one for the main display, and a settings page. The database for our app has three tables: one for user logins, one for user weights and their respective dates, and one for user goal weights. These tables are all connected via the user_id created in the login table. **I hope to build upon this app in the future**
 
 ### Main Display Screen
 <img alt="Picture of Main Display Screen" src="https://github.com/crestongetz/Weight-Tracking-App/blob/464a8035285badcfe85176fc734c654dad556321/Pictures/Weight%20Tracker%20Main%20Display.png"/>
