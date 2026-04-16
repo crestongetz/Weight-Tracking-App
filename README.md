@@ -12,7 +12,7 @@ You will need the following:
 3. A dedicated GPU(recommended not required)
 
 ### How to Run
-1. Download the [zip file]().
+1. Download the [zip file](https://github.com/crestongetz/Weight-Tracking-App/blob/cb0d47adde13dcff5d0ccb6471078380f65d3865/Weight%20Tracking%20App.zip).
 2. Extract the zip file.
 3. If any `build/`, `.gradle`, or `.idea/` folders are present, you should delete them.
 4. In Android Studio, select file -> open and open the folder directory
