@@ -7,12 +7,12 @@ This is a `fully developed user-focused Android app` that allows users to track 
 
 ## Getting Started
 You will need the following:
-1. Java
-2. Android Studio
+1. [Java](https://www.oracle.com/java/technologies/downloads/)
+2. [Android Studio](https://developer.android.com/studio)
 3. A dedicated GPU(recommended not required)
 
 ### How to Run
-1. Download the zip file.
+1. Download the [zip file]().
 2. Extract the zip file.
 3. If any `build/`, `.gradle`, or `.idea/` folders are present, you should delete them.
 4. In Android Studio, select file -> open and open the folder directory
