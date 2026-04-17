@@ -1,6 +1,8 @@
 # Weight-Tracking-App
 ## Overview
-This is a `fully developed user-focused Android app` that allows users to track their weight over time and set a goal weight to receive a notification. The app was created to be a convenient way for `users to achieve their goals`, no matter where they are. The app consists of `three screens`: one to log in and sign up, one for the main display, and a settings page. The database for our app has three tables: one for user logins, one for user weights and their respective dates, and one for user goal weights. These tables are all connected via the user_id created in the login table. **I hope to build upon this app in the future**
+This is a lightweight `fully developed Android app` for tracking weight over time, built with users in mind from day one. The app was created to be a convenient way for `users to achieve their goals`, no matter where they are.
+
+It allows users to track their weight over time and set a target weight to receive a notification when they reach it. The app consists of `three screens`: one to log in and sign up, one for the main display, and a settings page. The database for our app has three tables: one for user logins, one for user weights and their respective dates, and one for user goal weights. These tables are all connected via the user_id created in the login table. **I hope to build upon this app in the future**
 
 ### Main Display Screen
 <img alt="Picture of Main Display Screen" src="https://github.com/crestongetz/Weight-Tracking-App/blob/464a8035285badcfe85176fc734c654dad556321/Pictures/Weight%20Tracker%20Main%20Display.png"/>
@@ -30,13 +32,11 @@ You can view the `plans to monetize` and `launch` the app here: [Launch Plan (PD
 - Android Studio
 - Android Jetpack
 - SQL
-- XML
-- Gradle
 - MVC
 
 ## Future Improvements
 - Complete launch plan and publish app
-- Montize app
+- Monetize app
 - Add more features, such as charts and more advanced tracking
 - Add the ability to track other metrics like body fat or height
 - Add a social aspect to the app to allow users to add friends and support each other (MVP test first)
@@ -47,6 +47,6 @@ This app was designed to address the specific user need for a convenient way to 
 
 Many strategies were used in developing this app. The most important being a `focus on the user`. Putting yourself in the user's shoes is valuable, but it can only get you so far. I found that having `real people` test the app, `give feedback`, and then build upon that is a great way to improve functionality and add features. Another great strategy I have always used is testing my code frequently. After each change, I run it in the emulator to see whether I broke anything or could improve it. Doing this helps me learn what the code is actually doing much faster and ensures the code is functional. I plan to keep these strategies in mind, especially an increased focus on the user, in the future. I created a thorough plan for the features I would need for the app's users, which not only helped me build what I needed but will also help the app make money. 
 
-This was a unique challenge for me. This is the first mobile app I have built. One of the hardest features I built was the SMS notifications. I had to figure out a way to connect the database with the logic to send the SMS, only send it when the user wants it, ensure the app will still work when it's off, and ensure that if different users are using the same phone, their settings stay unique to them. My strongest part of this project was the planning and outlining I did. The planning phase proved helpful in accelerating my development process. By approaching the project with a `business-focused mindset`, I was able to identify clear use cases and evaluate the app's real-world use. Including how it could `generate value and revenue`. This stage of the project best highlights my ability to bridge technical implementation with strategic thinking, and reflects the skills and knowledge I have developed so far in my journey.
+This was a unique challenge for me. This is the first mobile app I have built. One of the hardest features I built was the SMS notifications. I had to figure out a way to connect the database with the logic to send the SMS, only send it when the user wants it, ensure the app will still work when it's off, and ensure that if different users are using the same phone, their settings stay unique to them. My strongest part of this project was the planning and outlining I did. The planning phase proved helpful in accelerating my development process. By approaching the project with a `business-focused mindset`, I was able to identify clear use cases and evaluate the app's real-world use, including how it could `generate value and revenue`. This stage of the project best highlights my ability to bridge technical implementation with strategic thinking, and reflects the skills and knowledge I have developed so far in my journey.
 
 
