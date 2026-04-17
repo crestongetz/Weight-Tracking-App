@@ -1,4 +1,9 @@
 # Weight-Tracking-App
+![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)
+![Language](https://img.shields.io/badge/Language-Java-ED8B00?logo=openjdk&logoColor=white)
+![Database](https://img.shields.io/badge/Database-SQLite-003B57?logo=sqlite&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In%20Development-orange)
+![IDE](https://img.shields.io/badge/IDE-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
 ## Overview
 This is a lightweight `fully developed Android app` for tracking weight over time, built with users in mind from day one. The app was created to be a convenient way for `users to achieve their goals`, no matter where they are.
 
