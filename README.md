@@ -10,7 +10,7 @@ This is a lightweight `fully developed Android app` for tracking weight over tim
 It allows users to track their weight over time and set a target weight to receive a notification when they reach it. The app consists of `three screens`: one to log in and sign up, one for the main display, and a settings page. The database for our app has three tables: one for user logins, one for user weights and their respective dates, and one for user goal weights. These tables are all connected via the user_id created in the login table. **I hope to build upon this app in the future**
 
 ### Main Display Screen
-<img alt="Picture of Main Display Screen" src="https://github.com/crestongetz/Weight-Tracking-App/blob/464a8035285badcfe85176fc734c654dad556321/Pictures/Weight%20Tracker%20Main%20Display.png"/>
+<img alt="Picture of Main Display Screen" src="https://github.com/crestongetz/Weight-Tracking-App/blob/main/Pictures/Weight%20Tracker%20Main%20Display.png"/>
 
 ## Getting Started
 You will need the following:
@@ -19,7 +19,7 @@ You will need the following:
 3. A dedicated GPU(recommended not required)
 
 ### How to Run
-1. Download the [zip file](https://github.com/crestongetz/Weight-Tracking-App/blob/cb0d47adde13dcff5d0ccb6471078380f65d3865/Weight%20Tracking%20App.zip).
+1. Download the [zip file](https://github.com/crestongetz/Weight-Tracking-App/blob/main/Weight%20Tracking%20App.zip).
 2. Extract the zip file.
 3. If any `build/`, `.gradle`, or `.idea/` folders are present, you should delete them.
 4. In Android Studio, select file -> open and open the folder directory
@@ -30,7 +30,7 @@ You will need the following:
 Note that if you are using the emulator `without a GPU`, it will be very slow. A `good integrated GPU` should work fine, but a dedicated one is ideal.
 
 ## Launch Plan
-You can view the `plans to monetize` and `launch` the app here: [Launch Plan (PDF)](https://github.com/crestongetz/Weight-Tracking-App/blob/6b33a51977de6b867689ef2f9d62fe6c79c73a84/Files/Weight%20Tracking%20App%20Launch%20Plan%20PDF.pdf)
+You can view the `plans to monetize` and `launch` the app here: [Launch Plan (PDF)](https://github.com/crestongetz/Weight-Tracking-App/blob/main/Files/Weight%20Tracking%20App%20Launch%20Plan%20PDF.pdf)
 
 ## Tools/Frameworks Used
 - Java (JDK)
